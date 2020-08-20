@@ -1,0 +1,365 @@
+*{
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#nav{
+     width: 100%;
+     height: 75px;
+     background: rgb(36, 41, 46);
+     padding-top: 10px;
+}
+
+#logo-div{
+    float: left;
+}
+
+#search-div{
+    float: right;
+}
+
+.nav-link{
+    margin-left: 20px;
+    color: white;
+    font-size: 18px;
+    
+    
+}
+
+.logo{
+    margin-left:50px ;
+    margin-right: 10px;
+    
+    
+    
+
+}
+
+#image-logo{
+    float: left;
+    margin-top: 10px;
+}
+
+
+
+
+#link-div{
+    float: right;
+    margin-top: 15px;
+}
+
+#search-div{
+    margin-right: 50px;
+}
+
+.search-input{
+    height: 38px;
+    width: 235px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    background: rgb(43, 49, 55);
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0;
+    padding-left: 15px;
+}
+
+.sign-in{
+    color: white;
+    font-size: 20px;
+    margin-left:15px ;
+}
+
+.sign-up{
+    color: white;
+    background: rgb(36, 41, 46);
+    font-size: 18px;
+    margin-left:15px ;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+        
+        #general{
+            background: rgb(43, 49, 55);
+            width: 100%;
+            height: 700px;
+        }
+         #developers-div{
+             float: left;
+
+         }
+
+         #signup-div{
+             float: right;
+
+         }
+
+         .p-built{
+             font-size: 70px;
+             color: white;
+             margin-top: 150px;
+             margin-left: 160px;
+
+         }
+
+         
+         .p-50million{
+             color: #ececec;
+             padding-top: 30px;
+             margin-left: 160px;
+             font-size: 23px;
+        }
+        .p-50million a{
+             color: white;
+             
+        }
+
+        form{
+            margin-top: 60px;
+            margin-right: 200px;
+            background:#ececec;
+            height: 500px;
+            width: 440px;
+            padding: 40px 25px 20px 25px;
+
+            border-radius: 8px;
+            
+            
+        }
+
+        form input{
+            width: 100%;
+            height: 50px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            border: 1px solid #95a5a6;
+        }
+
+        
+        
+        form a{
+            color: teal;
+        }
+        
+        
+        
+        .form-signup{
+         background: rgb(46, 188, 79);
+         color: white;
+         font-size: 15px;
+         font-weight: bold;
+         margin-top: 15px;
+         margin-bottom: 15px;
+         height: 65px;
+
+        }
+
+        form p{
+            font-size: 13px;
+            margin-top: 15px;
+            
+        }
+
+        #enterprise-div{
+            height: 300px;
+            width: 92%;
+           margin: 100px auto;
+            background: rgb(255, 227, 230);
+            border-radius: 5px;
+
+        }
+
+        #enterprise-1{
+            float: left;
+            width:30% ;
+            margin-left: 50px;
+            margin-top:70px; ;
+        }
+
+        #enterprise-1 p{
+            margin-top: 20px;
+            font-size: 21px;
+
+        }
+
+        #enterprise-2{
+            float: right;
+            margin-right: 80px;
+            margin-top: 130px;
+       
+        }
+
+        #start{
+            float: left;
+            margin-right: 200px;
+            
+        }
+
+       
+
+        .h3-start{
+            height: 30px;
+            padding-left: 90px;
+            
+
+        }
+        .button-start{
+            height: 50px;
+            padding-left: 55px;
+            margin-top: 30px;
+
+        }
+        #start input{
+            background: rgb(16, 116, 231);
+            font-size: 17px;
+            padding: 16px;
+            color: white;
+            font-weight: bold;
+            border-radius: 4px;
+            border: 1px solid white;
+            box-shadow: rgb(16, 116, 231);
+
+
+        }
+
+
+        #contact{
+            float: right;
+            margin-right: 50px;
+        }
+        #contact p{
+        margin-top:5px ;
+        }
+
+        .body-contact{
+            margin-bottom:30px ;
+            padding-left: 40px;
+
+            
+        }
+
+        #contact input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 18px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            
+        }
+
+        #free-div{
+            height: 140px;
+            width: 92%;
+            background: rgb(4, 66, 137);
+            color: white;
+            margin: auto;
+            border-radius: 5px;
+        }
+
+        #free-left{
+            float: left;
+            width: 70%;
+            
+        }
+
+        #free-right{
+            float: right;
+            width: 30%;
+        }
+
+        .free-left1{
+            float: left;
+            margin-top: 55px;
+            margin-left: 50px;
+            
+        } 
+
+        .free-left1 p{
+            color: rgb(40, 167, 69);
+            border: ipx solid rgb(40, 167, 69);;
+        }
+
+
+        .free-left2 p{
+          font-size: 17px;
+          margin-top: 5px;
+        }
+
+        .free-left2{
+            
+            margin-top: 50px;
+            margin-left: 100px;
+
+        }
+
+        #free-right input{
+            font-size: 17px;
+            background: rgb(16, 116, 231);;
+            color: white;
+            padding: 18px 65px;
+            margin-top: 60px;
+            margin-left: 80px;
+            border-radius: 10px;
+            border:3px solid rgb(4, 66, 137);
+            font-weight: bold;
+        }
+
+        #logos-div p{
+           font-size: 25px;
+           margin-left: 25%;
+           margin-top: 80px;
+        }
+
+        .airbnb{
+            margin-left: 250px;
+        }
+   
+        .logos{
+            margin-left: 90px;
+            margin-top: 40px;
+        }
+
+        .spotify{
+            margin-left: 260px;
+        }
+
+        .better-way p{
+           margin-top: 150px;
+           margin-left: 600px;
+        }
+
+        .better-way h1{
+           margin-top: 13px;
+           margin-left: 350px;
+           font-size: 50px;
+        }
+
+        .better-way h3{
+            margin-top: 13px;
+            margin-left: 360px;
+            font-size: 25px;
+        }
+
+        .better-way h4{
+            margin-top: 10px;
+            margin-left: 465px;
+            font-size: 25px;
+        }
+
+       
+        .better-way input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 20px 40px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            margin-top: 30px;
+            margin-left: 620px;
