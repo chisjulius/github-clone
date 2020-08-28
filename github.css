@@ -168,7 +168,8 @@
             height: 300px;
             width: 92%;
            margin: 100px auto;
-            background: rgb(255, 227, 230);
+            background: rgb(255, 255, 255);
+            border: 1px solid rgb(255, 255, 255);
             border-radius: 5px;
 
         }
@@ -232,7 +233,7 @@
             margin-right: 50px;
         }
         #contact p{
-        margin-top:5px;
+        margin-top:5px ;
         }
 
         .body-contact{
@@ -322,17 +323,18 @@
    
         .logos{
             margin-left: 90px;
-            margin-top: 40px;
+            margin-top: 30px;
         }
 
         .spotify{
-            margin-left: 260px;
+            margin-left: 280px;
         }
 
         .better-way p{
            margin-top: 150px;
            margin-left: 600px;
         }
+
 
         .better-way h1{
            margin-top: 13px;
@@ -342,13 +344,13 @@
 
         .better-way h3{
             margin-top: 13px;
-            margin-left: 360px;
+            margin-left: 370px;
             font-size: 25px;
         }
 
         .better-way h4{
             margin-top: 10px;
-            margin-left: 465px;
+            margin-left: 420px;
             font-size: 25px;
         }
 
@@ -362,4 +364,1556 @@
             border-radius: 7px;
             border:1px solid  rgb(16, 116, 231);
             margin-top: 30px;
-            margin-left: 621px;
+            margin-left: 570px;
+        }
+
+        #team-svg{
+            width: 100%;
+            height: 720px;
+            margin-top: 50px;
+        }
+
+        #svg{
+            float: left;
+            width: 60%;
+            height: 650px;
+        }
+
+        #svg img{
+            margin-left: 100px;
+        }
+
+        #learn-about{
+            float: right;
+            width: 40%;
+            height: 650px;
+        }
+
+        .learn{
+            color: rgb(36, 41, 46);
+            text-decoration: none;
+        }
+
+        #learn-about a h5 {
+            font-size: 22px;
+            margin-top: 50px;
+            margin-bottom: 10px;
+        }
+
+        
+
+        .learn-about{
+            text-decoration: underline;
+            color: rgb(3, 102, 214);
+            
+        }
+
+        .container{
+            width: 100%;
+            height: 400px;
+        }
+
+        .container1{
+            float: left;
+            display: flex;
+            margin-left: 40px;
+        }
+
+        .container2{
+            float: right;
+            width: 50%;
+            height: ;
+            display: flex;
+            margin-right: 10px;
+            
+        }
+
+        .contdiv{
+            margin-left:30px ;
+            background: whitesmoke;
+            width: 265px;
+            height: 340px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .cont-div{
+            margin-left:30px ;
+            background: whitesmoke;
+            width: 265px;
+            height: 380px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .container img{
+            border-radius: 5px;
+        }
+
+        .use{
+            font-size: 23px;
+            color:rgb(88, 96, 105);
+            margin-left: 27%;
+            margin-bottom: 30px;
+        }
+       
+     .container a h3{
+            font-size: 20px;
+            color:rgb(88, 96, 105) ;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            text-decoration: none;
+        }
+
+        .container a p{
+            color:rgb(88, 96, 105) ;
+            font-size: 13px;
+            margin-bottom: 30px;
+        }
+
+        #kris-nova{
+            margin-bottom: 18px;
+        }
+
+       
+        .link-h3p {
+           text-decoration: none;
+                  
+        }
+
+        .read-more{            
+            color: rgb(3, 102, 214);
+
+        }
+
+        .whether1{
+            font-size: 25px;
+            margin-top: 30px;
+            margin-left: 370px;
+            color: rgb(88, 96, 105);;
+        }
+
+        .whether2{
+            font-size: 25px;
+            margin-top: 8px;
+            margin-left: 510px;
+            color: rgb(88, 96, 105);;
+        }
+       
+        .p1{ 
+             margin-left:40% ;
+             font-size: 18px;
+             color:  rgb(88, 96, 105) ;
+            
+        }
+
+        #security{
+            margin-top: 100px;
+        }
+
+        #security h1{
+            font-size: 55px; 
+            margin: 20px 0 20px 27% ;
+            color: rgb(36, 41, 46);
+            
+        }
+        .p2{
+            font-size: 23px;
+            margin-left: 26%;
+            margin-bottom: 10px;
+            color:  rgb(88, 96, 105) ;
+            
+        }
+        .p3{
+            font-size: 23px;
+            margin-left: 38%;
+            color:  rgb(88, 96, 105) ;
+            margin-bottom: 20px;
+        }
+
+        #security input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 23px 40px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            margin-top: 30px;
+            margin-left: 480px;
+        }
+        
+        #verified{
+            width: 100%;
+            height: 300px;
+        }
+        #verified1a{
+           float: left;
+           margin-top: 80px;
+           margin-left: 220px;
+        }
+
+        #verified1b{
+            float: right;
+            margin-top: 80px;
+            margin-right: 200px;
+        }
+
+        #verified2{
+            width: 580px;
+            height: 220px;
+            margin-top: 150px;
+            margin-left: 370px;
+            border: 1PX solid rgb(225, 228, 232);
+            padding-top: 30px;
+            padding-right: 30px;
+            padding-bottom: 30px;
+            padding-left: 120px;
+            
+        }
+
+        #verified h3{
+           font-size: 22px;
+           color: rgb(36, 41, 46);
+        }
+
+        #verified p{
+            font-size: 15px;
+            color:  rgb(88, 96, 105) ;
+            margin-top: 10px;
+            margin-bottom: 50px;
+        }
+
+        #verified2 h4{
+            font-size: 22px;
+            color: rgb(36, 41, 46);
+         }
+
+         #verified2 p{
+            font-size: 15px;
+            color:  rgb(88, 96, 105) ;
+            margin: 10px 0;
+        }
+
+        #verified2 a{
+            font-size: 18px;
+            width: 100%;
+            color: rgb(16, 116, 231) ;
+        }
+         #integrations-div{
+             margin-top: 200px;
+         }
+        .integrations{ 
+            margin-left:45% ;
+            font-size: 18px;
+            color:  rgb(88, 96, 105);
+           
+       }
+       #integrations-div h1{
+        font-size: 55px; 
+        margin: 20px 0 20px 35% ;
+        color: rgb(36, 41, 46);
+        
+    }
+    .customize{
+        font-size: 23px;
+        margin-left: 27%;
+        margin-bottom: 5px;
+        color:  rgb(88, 96, 105) ;
+        
+    }
+
+    .customize1{
+        font-size: 23px;
+        margin-left: 33%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:5px;
+    }
+    .customize2{
+        font-size: 23px;
+        margin-left: 33%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:30px;
+    }
+    #integrations-div input{
+        background: white;
+        color: rgb(16, 116, 231);
+        font-size: 16px;
+        padding: 23px 40px;
+        font-weight: bold;
+        border-radius: 7px;
+        border:1px solid  rgb(16, 116, 231);
+        margin-left: 530px;
+    }
+
+    #travis-div{
+        margin-left: 300px;
+        margin-top:100px ;
+    }
+
+    #zenhubio-div{
+        margin-left: 430px;
+    }
+     
+    .travis1{
+        margin-left: 200px;
+    
+    }
+
+    .travis2{
+        margin-left: 200px;
+    }
+    
+
+    .sometimes{
+        margin-top: 100px;
+        margin-left: 520px;
+        color:rgb(88, 96, 105) ;
+    }
+
+    .sometimes2{
+        color:rgb(88, 96, 105)  ;
+        margin-left: 570px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .sometimes3{
+        color:rgb(16, 116, 231); 
+        margin-left: 570px;
+        
+    }
+    .community{
+        margin-top: 200px;
+        margin-left:45% ;
+        font-size: 18px;
+        color:  rgb(88, 96, 105);
+    }
+    .communityh1i{
+        font-size: 55px; 
+        margin: 20px 0 0 35% ;
+        color: rgb(36, 41, 46);
+    }
+    .communityh2i{
+        font-size: 55px; 
+        margin: 0 0 30px 40% ;
+        color: rgb(36, 41, 46);
+    }
+    .communityp1{
+        font-size: 23px;
+        margin-left: 27%;
+        margin-bottom: 5px;
+        color:  rgb(88, 96, 105) ;
+    }
+    .communityp2{
+        font-size: 23px;
+        margin-left: 45%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:30px;   
+    }
+    #worldwide{
+        width: 100%;
+        height: 630px;
+        
+    }
+
+    #worldwide1{
+        float: left;
+        width: 50%;
+        height: 500px;
+        margin-top: 120px;
+    }
+
+    #worldwide2{
+        float: right;
+        width: 50%;
+        height: 600px;
+        margin-top: 20px;
+    
+    }
+    #worldwide2 a{
+        text-decoration: none;
+    }
+
+    .w-w2{
+        margin-top: 60px;
+        color: rgb(88, 96, 105) ;
+        
+    }
+
+    .w-w2i{
+        margin: 2px 0 2px 0;
+        color: rgb(88, 96, 105) ;
+    }
+
+    .open-source{
+        color: rgb(160, 65, 0);
+        text-decoration: none;
+       
+    }
+
+    .buisnesses{
+        color: rgb(111, 66, 193);;
+    }
+    .developers{
+        color:rgb(16, 116, 231);    
+    }
+
+    .milla-100{
+    float: left;
+    width: 220px;
+    height:220px;
+    border-radius: 110px;
+    background: rgb(246, 106, 10);
+    color: white;
+    margin-left: 180px;
+    }
+
+    .milla2{
+        padding-left: 40px;
+    }
+
+    .milla{
+        font-size: 42px;
+        padding-left: 50px;
+        padding-top: 70px;
+    }
+
+    .milla-50{
+        float: right;
+        width: 180px;
+        height:180px;
+        border-radius: 90px;
+        background: rgb(3, 102, 214);
+        color: white;
+        margin-right: 70px;
+        margin-top: 40px;
+        }
+
+        .milla2i{
+            padding-left: 50px;
+        }
+    
+        .millai{
+            font-size: 42px;
+            padding-left: 40px;
+            padding-top: 50px;
+        }
+
+        .milla-29{
+            width: 140px;
+            height:140px;
+            border-radius: 70px;
+            background:rgb(111, 66, 193);
+            color: white;
+            margin-top: 220px;
+            margin-left: 330px;
+            }
+    
+            .milla2ii{
+                padding-left: 30px;
+            }
+        
+            .millaii{
+                font-size: 42px;
+                padding-left: 20px;
+                padding-top: 20px;
+            }
+
+    
+            #footer{
+                padding-top: 80px;
+                background: rgb(36, 41, 46);
+                width: 100%;
+                height: 550px;
+            }
+
+            
+
+        .f-p1{
+            color: white;
+            font-size: 38px;
+            margin-left: 200px;
+        }
+
+        .f-p2{
+            color: white;
+            font-size: 38px;
+            margin-left: 220px;
+            margin-top: 5px;
+        }
+        .f-p3{
+            color: white;
+            font-size: 38px;
+            margin-left: 545px;
+            margin-top: 5px;
+            margin-bottom: ;
+        }
+
+        #table{
+            float: left;
+            width: 70%;
+            height: 110px;
+            margin-top: 75px;
+        
+        }
+
+        #fb-div{
+            float: right;
+            width: 25%;
+            height: 105px;
+            margin-right: 30px;
+            margin-top: 80px;
+        
+        }
+
+        .footer-label{
+            color: white;
+            margin-left: 30px;
+            
+        }
+
+        .footer-input{
+            width: 280px;
+            height: 45px;
+            margin-left:30px ;
+            margin-bottom:;
+            border-radius: 8px;
+            border: 0;
+            padding-left: 10px;
+            font-size: 15px;
+        }
+        #table{
+            margin-left: 30px;
+        }
+
+        .footer-button{
+            background: rgb(46, 188, 79);
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+            height: 57px;
+            width: 300px;
+            border-radius: 8px;
+            border: 0;
+            margin-left: 10px;    
+        }
+        .f-p4{
+            color: rgb(106, 115, 125);
+            font-size: 13px;
+            margin-left:300px;
+        }
+        .f-p4 a{
+            color: white;   
+        }
+
+        .container3{
+            padding-top: 50px;
+        }
+
+        #cont-bot{
+            width: 100%;
+            height: 500px;
+        }
+
+        #cont-bot1 a{
+            font-size: 28px;
+            font-weight: bold;
+            margin-left: 50px;
+            color: rgb(36, 41, 46);
+            text-decoration: none;
+        }
+
+        #cont-bot1{
+            float: left;
+            width: 15%;
+            margin-top: 80px;
+        }
+
+        
+        #cont-bot2{
+            float: right;
+            width: 85%;
+            padding-left: 120px;
+            padding-top: 80px;
+        }
+
+        #cont-bot2 p{
+            margin-left: 110px;
+            margin-bottom: 10px;
+        }
+        
+        #cont-bot2 a{
+            margin-left: 110px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: rgb(88, 96, 105);
+            text-decoration: none;
+            
+        }
+
+        #cont-bot2 tr{
+            margin-bottom: 10px;
+        }
+
+        .td{
+         color: white;
+            
+            *{
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#nav{
+     width: 100%;
+     height: 75px;
+     background: rgb(36, 41, 46);
+     padding-top: 10px;
+}
+
+#logo-div{
+    float: left;
+}
+
+#search-div{
+    float: right;
+}
+
+.nav-link{
+    margin-left: 20px;
+    color: white;
+    font-size: 18px;
+    
+    
+}
+
+.logo{
+    margin-left:50px ;
+    margin-right: 10px;
+    
+    
+    
+
+}
+
+#image-logo{
+    float: left;
+    margin-top: 10px;
+}
+
+
+
+
+#link-div{
+    float: right;
+    margin-top: 15px;
+}
+
+#search-div{
+    margin-right: 50px;
+}
+
+.search-input{
+    height: 38px;
+    width: 235px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    background: rgb(43, 49, 55);
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0;
+    padding-left: 15px;
+}
+
+.sign-in{
+    color: white;
+    font-size: 20px;
+    margin-left:15px ;
+}
+
+.sign-up{
+    color: white;
+    background: rgb(36, 41, 46);
+    font-size: 18px;
+    margin-left:15px ;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+        
+        #general{
+            background: rgb(43, 49, 55);
+            width: 100%;
+            height: 700px;
+        }
+         #developers-div{
+             float: left;
+
+         }
+
+         #signup-div{
+             float: right;
+
+         }
+
+         .p-built{
+             font-size: 70px;
+             color: white;
+             margin-top: 150px;
+             margin-left: 160px;
+
+         }
+
+         
+         .p-50million{
+             color: #ececec;
+             padding-top: 30px;
+             margin-left: 160px;
+             font-size: 23px;
+        }
+        .p-50million a{
+             color: white;
+             
+        }
+
+        form{
+            margin-top: 60px;
+            margin-right: 200px;
+            background:#ececec;
+            height: 500px;
+            width: 440px;
+            padding: 40px 25px 20px 25px;
+
+            border-radius: 8px;
+            
+            
+        }
+
+        form input{
+            width: 100%;
+            height: 50px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            border: 1px solid #95a5a6;
+        }
+
+        
+        
+        form a{
+            color: teal;
+        }
+        
+        
+        
+        .form-signup{
+         background: rgb(46, 188, 79);
+         color: white;
+         font-size: 15px;
+         font-weight: bold;
+         margin-top: 15px;
+         margin-bottom: 15px;
+         height: 65px;
+
+        }
+
+        form p{
+            font-size: 13px;
+            margin-top: 15px;
+            
+        }
+
+        #enterprise-div{
+            height: 300px;
+            width: 92%;
+           margin: 100px auto;
+            background: rgb(255, 255, 255);
+            border: 1px solid rgb(255, 255, 255);
+            border-radius: 5px;
+
+        }
+
+        #enterprise-1{
+            float: left;
+            width:30% ;
+            margin-left: 50px;
+            margin-top:70px; ;
+        }
+
+        #enterprise-1 p{
+            margin-top: 20px;
+            font-size: 21px;
+
+        }
+
+        #enterprise-2{
+            float: right;
+            margin-right: 80px;
+            margin-top: 130px;
+       
+        }
+
+        #start{
+            float: left;
+            margin-right: 200px;
+            
+        }
+
+       
+
+        .h3-start{
+            height: 30px;
+            padding-left: 90px;
+            
+
+        }
+        .button-start{
+            height: 50px;
+            padding-left: 55px;
+            margin-top: 30px;
+
+        }
+        #start input{
+            background: rgb(16, 116, 231);
+            font-size: 17px;
+            padding: 16px;
+            color: white;
+            font-weight: bold;
+            border-radius: 4px;
+            border: 1px solid white;
+            box-shadow: rgb(16, 116, 231);
+
+
+        }
+
+
+        #contact{
+            float: right;
+            margin-right: 50px;
+        }
+        #contact p{
+        margin-top:5px ;
+        }
+
+        .body-contact{
+            margin-bottom:30px ;
+            padding-left: 40px;
+
+            
+        }
+
+        #contact input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 18px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            
+        }
+
+        #free-div{
+            height: 140px;
+            width: 92%;
+            background: rgb(4, 66, 137);
+            color: white;
+            margin: auto;
+            border-radius: 5px;
+        }
+
+        #free-left{
+            float: left;
+            width: 70%;
+            
+        }
+
+        #free-right{
+            float: right;
+            width: 30%;
+        }
+
+        .free-left1{
+            float: left;
+            margin-top: 55px;
+            margin-left: 50px;
+            
+        } 
+
+        .free-left1 p{
+            color: rgb(40, 167, 69);
+            border: ipx solid rgb(40, 167, 69);;
+        }
+
+
+        .free-left2 p{
+          font-size: 17px;
+          margin-top: 5px;
+        }
+
+        .free-left2{
+            
+            margin-top: 50px;
+            margin-left: 100px;
+
+        }
+
+        #free-right input{
+            font-size: 17px;
+            background: rgb(16, 116, 231);;
+            color: white;
+            padding: 18px 65px;
+            margin-top: 60px;
+            margin-left: 80px;
+            border-radius: 10px;
+            border:3px solid rgb(4, 66, 137);
+            font-weight: bold;
+        }
+
+        #logos-div p{
+           font-size: 25px;
+           margin-left: 25%;
+           margin-top: 80px;
+        }
+
+        .airbnb{
+            margin-left: 250px;
+        }
+   
+        .logos{
+            margin-left: 90px;
+            margin-top: 30px;
+        }
+
+        .spotify{
+            margin-left: 280px;
+        }
+
+        .better-way p{
+           margin-top: 150px;
+           margin-left: 600px;
+        }
+
+
+        .better-way h1{
+           margin-top: 13px;
+           margin-left: 350px;
+           font-size: 50px;
+        }
+
+        .better-way h3{
+            margin-top: 13px;
+            margin-left: 370px;
+            font-size: 25px;
+        }
+
+        .better-way h4{
+            margin-top: 10px;
+            margin-left: 420px;
+            font-size: 25px;
+        }
+
+       
+        .better-way input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 20px 40px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            margin-top: 30px;
+            margin-left: 570px;
+        }
+
+        #team-svg{
+            width: 100%;
+            height: 720px;
+            margin-top: 50px;
+        }
+
+        #svg{
+            float: left;
+            width: 60%;
+            height: 650px;
+        }
+
+        #svg img{
+            margin-left: 100px;
+        }
+
+        #learn-about{
+            float: right;
+            width: 40%;
+            height: 650px;
+        }
+
+        .learn{
+            color: rgb(36, 41, 46);
+            text-decoration: none;
+        }
+
+        #learn-about a h5 {
+            font-size: 22px;
+            margin-top: 50px;
+            margin-bottom: 10px;
+        }
+
+        
+
+        .learn-about{
+            text-decoration: underline;
+            color: rgb(3, 102, 214);
+            
+        }
+
+        .container{
+            width: 100%;
+            height: 400px;
+        }
+
+        .container1{
+            float: left;
+            display: flex;
+            margin-left: 40px;
+        }
+
+        .container2{
+            float: right;
+            width: 50%;
+            height: ;
+            display: flex;
+            margin-right: 10px;
+            
+        }
+
+        .contdiv{
+            margin-left:30px ;
+            background: whitesmoke;
+            width: 265px;
+            height: 340px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .cont-div{
+            margin-left:30px ;
+            background: whitesmoke;
+            width: 265px;
+            height: 380px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .container img{
+            border-radius: 5px;
+        }
+
+        .use{
+            font-size: 23px;
+            color:rgb(88, 96, 105);
+            margin-left: 27%;
+            margin-bottom: 30px;
+        }
+       
+     .container a h3{
+            font-size: 20px;
+            color:rgb(88, 96, 105) ;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            text-decoration: none;
+        }
+
+        .container a p{
+            color:rgb(88, 96, 105) ;
+            font-size: 13px;
+            margin-bottom: 30px;
+        }
+
+        #kris-nova{
+            margin-bottom: 18px;
+        }
+
+       
+        .link-h3p {
+           text-decoration: none;
+                  
+        }
+
+        .read-more{            
+            color: rgb(3, 102, 214);
+
+        }
+
+        .whether1{
+            font-size: 25px;
+            margin-top: 30px;
+            margin-left: 370px;
+            color: rgb(88, 96, 105);;
+        }
+
+        .whether2{
+            font-size: 25px;
+            margin-top: 8px;
+            margin-left: 510px;
+            color: rgb(88, 96, 105);;
+        }
+       
+        .p1{ 
+             margin-left:40% ;
+             font-size: 18px;
+             color:  rgb(88, 96, 105) ;
+            
+        }
+
+        #security{
+            margin-top: 100px;
+        }
+
+        #security h1{
+            font-size: 55px; 
+            margin: 20px 0 20px 27% ;
+            color: rgb(36, 41, 46);
+            
+        }
+        .p2{
+            font-size: 23px;
+            margin-left: 26%;
+            margin-bottom: 10px;
+            color:  rgb(88, 96, 105) ;
+            
+        }
+        .p3{
+            font-size: 23px;
+            margin-left: 38%;
+            color:  rgb(88, 96, 105) ;
+            margin-bottom: 20px;
+        }
+
+        #security input{
+            background: white;
+            color: rgb(16, 116, 231);
+            font-size: 16px;
+            padding: 23px 40px;
+            font-weight: bold;
+            border-radius: 7px;
+            border:1px solid  rgb(16, 116, 231);
+            margin-top: 30px;
+            margin-left: 480px;
+        }
+        
+        #verified{
+            width: 100%;
+            height: 300px;
+        }
+        #verified1a{
+           float: left;
+           margin-top: 80px;
+           margin-left: 220px;
+        }
+
+        #verified1b{
+            float: right;
+            margin-top: 80px;
+            margin-right: 200px;
+        }
+
+        #verified2{
+            width: 580px;
+            height: 220px;
+            margin-top: 150px;
+            margin-left: 370px;
+            border: 1PX solid rgb(225, 228, 232);
+            padding-top: 30px;
+            padding-right: 30px;
+            padding-bottom: 30px;
+            padding-left: 120px;
+            
+        }
+
+        #verified h3{
+           font-size: 22px;
+           color: rgb(36, 41, 46);
+        }
+
+        #verified p{
+            font-size: 15px;
+            color:  rgb(88, 96, 105) ;
+            margin-top: 10px;
+            margin-bottom: 50px;
+        }
+
+        #verified2 h4{
+            font-size: 22px;
+            color: rgb(36, 41, 46);
+         }
+
+         #verified2 p{
+            font-size: 15px;
+            color:  rgb(88, 96, 105) ;
+            margin: 10px 0;
+        }
+
+        #verified2 a{
+            font-size: 18px;
+            width: 100%;
+            color: rgb(16, 116, 231) ;
+        }
+         #integrations-div{
+             margin-top: 200px;
+         }
+        .integrations{ 
+            margin-left:45% ;
+            font-size: 18px;
+            color:  rgb(88, 96, 105);
+           
+       }
+       #integrations-div h1{
+        font-size: 55px; 
+        margin: 20px 0 20px 35% ;
+        color: rgb(36, 41, 46);
+        
+    }
+    .customize{
+        font-size: 23px;
+        margin-left: 27%;
+        margin-bottom: 5px;
+        color:  rgb(88, 96, 105) ;
+        
+    }
+
+    .customize1{
+        font-size: 23px;
+        margin-left: 33%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:5px;
+    }
+    .customize2{
+        font-size: 23px;
+        margin-left: 33%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:30px;
+    }
+    #integrations-div input{
+        background: white;
+        color: rgb(16, 116, 231);
+        font-size: 16px;
+        padding: 23px 40px;
+        font-weight: bold;
+        border-radius: 7px;
+        border:1px solid  rgb(16, 116, 231);
+        margin-left: 530px;
+    }
+
+    #travis-div{
+        margin-left: 300px;
+        margin-top:100px ;
+    }
+
+    #zenhubio-div{
+        margin-left: 430px;
+    }
+     
+    .travis1{
+        margin-left: 200px;
+    
+    }
+
+    .travis2{
+        margin-left: 200px;
+    }
+    
+
+    .sometimes{
+        margin-top: 100px;
+        margin-left: 520px;
+        color:rgb(88, 96, 105) ;
+    }
+
+    .sometimes2{
+        color:rgb(88, 96, 105)  ;
+        margin-left: 570px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .sometimes3{
+        color:rgb(16, 116, 231); 
+        margin-left: 570px;
+        
+    }
+    .community{
+        margin-top: 200px;
+        margin-left:45% ;
+        font-size: 18px;
+        color:  rgb(88, 96, 105);
+    }
+    .communityh1i{
+        font-size: 55px; 
+        margin: 20px 0 0 35% ;
+        color: rgb(36, 41, 46);
+    }
+    .communityh2i{
+        font-size: 55px; 
+        margin: 0 0 30px 40% ;
+        color: rgb(36, 41, 46);
+    }
+    .communityp1{
+        font-size: 23px;
+        margin-left: 27%;
+        margin-bottom: 5px;
+        color:  rgb(88, 96, 105) ;
+    }
+    .communityp2{
+        font-size: 23px;
+        margin-left: 45%;
+        color:  rgb(88, 96, 105) ;
+        margin-bottom:30px;   
+    }
+    #worldwide{
+        width: 100%;
+        height: 630px;
+        
+    }
+
+    #worldwide1{
+        float: left;
+        width: 50%;
+        height: 500px;
+        margin-top: 120px;
+    }
+
+    #worldwide2{
+        float: right;
+        width: 50%;
+        height: 600px;
+        margin-top: 20px;
+    
+    }
+    #worldwide2 a{
+        text-decoration: none;
+    }
+
+    .w-w2{
+        margin-top: 60px;
+        color: rgb(88, 96, 105) ;
+        
+    }
+
+    .w-w2i{
+        margin: 2px 0 2px 0;
+        color: rgb(88, 96, 105) ;
+    }
+
+    .open-source{
+        color: rgb(160, 65, 0);
+        text-decoration: none;
+       
+    }
+
+    .buisnesses{
+        color: rgb(111, 66, 193);;
+    }
+    .developers{
+        color:rgb(16, 116, 231);    
+    }
+
+    .milla-100{
+    float: left;
+    width: 220px;
+    height:220px;
+    border-radius: 110px;
+    background: rgb(246, 106, 10);
+    color: white;
+    margin-left: 180px;
+    }
+
+    .milla2{
+        padding-left: 40px;
+    }
+
+    .milla{
+        font-size: 42px;
+        padding-left: 50px;
+        padding-top: 70px;
+    }
+
+    .milla-50{
+        float: right;
+        width: 180px;
+        height:180px;
+        border-radius: 90px;
+        background: rgb(3, 102, 214);
+        color: white;
+        margin-right: 70px;
+        margin-top: 40px;
+        }
+
+        .milla2i{
+            padding-left: 50px;
+        }
+    
+        .millai{
+            font-size: 42px;
+            padding-left: 40px;
+            padding-top: 50px;
+        }
+
+        .milla-29{
+            width: 140px;
+            height:140px;
+            border-radius: 70px;
+            background:rgb(111, 66, 193);
+            color: white;
+            margin-top: 220px;
+            margin-left: 330px;
+            }
+    
+            .milla2ii{
+                padding-left: 30px;
+            }
+        
+            .millaii{
+                font-size: 42px;
+                padding-left: 20px;
+                padding-top: 20px;
+            }
+
+    
+            #footer{
+                padding-top: 80px;
+                background: rgb(36, 41, 46);
+                width: 100%;
+                height: 550px;
+            }
+
+            
+
+        .f-p1{
+            color: white;
+            font-size: 38px;
+            margin-left: 200px;
+        }
+
+        .f-p2{
+            color: white;
+            font-size: 38px;
+            margin-left: 220px;
+            margin-top: 5px;
+        }
+        .f-p3{
+            color: white;
+            font-size: 38px;
+            margin-left: 545px;
+            margin-top: 5px;
+            margin-bottom: ;
+        }
+
+        #table{
+            float: left;
+            width: 70%;
+            height: 110px;
+            margin-top: 75px;
+        
+        }
+
+        #fb-div{
+            float: right;
+            width: 25%;
+            height: 105px;
+            margin-right: 30px;
+            margin-top: 80px;
+        
+        }
+
+        .footer-label{
+            color: white;
+            margin-left: 30px;
+            
+        }
+
+        .footer-input{
+            width: 280px;
+            height: 45px;
+            margin-left:30px ;
+            margin-bottom:;
+            border-radius: 8px;
+            border: 0;
+            padding-left: 10px;
+            font-size: 15px;
+        }
+        #table{
+            margin-left: 30px;
+        }
+
+        .footer-button{
+            background: rgb(46, 188, 79);
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+            height: 57px;
+            width: 300px;
+            border-radius: 8px;
+            border: 0;
+            margin-left: 10px;    
+        }
+        .f-p4{
+            color: rgb(106, 115, 125);
+            font-size: 13px;
+            margin-left:300px;
+        }
+        .f-p4 a{
+            color: white;   
+        }
+
+        .container3{
+            padding-top: 50px;
+        }
+
+        #cont-bot{
+            width: 100%;
+            height: 500px;
+        }
+
+        #cont-bot1 a{
+            font-size: 28px;
+            font-weight: bold;
+            margin-left: 50px;
+            color: rgb(36, 41, 46);
+            text-decoration: none;
+        }
+
+        #cont-bot1{
+            float: left;
+            width: 15%;
+            margin-top: 80px;
+        }
+
+        
+        #cont-bot2{
+            float: right;
+            width: 85%;
+            padding-left: 120px;
+            padding-top: 80px;
+        }
+
+        #cont-bot2 p{
+            margin-left: 110px;
+            margin-bottom: 10px;
+        }
+        
+        #cont-bot2 a{
+            margin-left: 110px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: rgb(88, 96, 105);
+            text-decoration: none;
+            
+        }
+
+        #cont-bot2 tr{
+            margin-bottom: 10px;
+        }
+
+        .td{
+         color: white;
+            
+        }
