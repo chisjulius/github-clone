@@ -1917,3 +1917,36 @@
          color: white;
             
         }
+
+     
+        @media (max-width: 1150px){
+            #link-div{
+                display: none;
+            }
+            .search-input{
+                display: none;
+            }
+            .sign-in{
+                display: none;
+            }
+            }
+    
+            @media (max-width: 1300px){
+                #signup-div{
+                    margin-right: 480px;
+                }
+              #general{
+                  height: 1100px;
+              }
+            }
+    
+            @media (max-width: 1250px){
+                #signup-div{
+                    display: none;
+                }
+                #general{
+                    height: 600px;
+                }
+    
+            }
+    
