@@ -24,9 +24,8 @@
     margin-left: 20px;
     color: white;
     font-size: 18px;
-    
-    
 }
+
 
 .logo{
     margin-left:50px ;
@@ -90,6 +89,8 @@
         }
          #developers-div{
              float: left;
+             margin-left: 13%;
+             width: 35%;
 
          }
 
@@ -97,20 +98,18 @@
              float: right;
 
          }
+         
 
          .p-built{
              font-size: 70px;
              color: white;
              margin-top: 150px;
-             margin-left: 160px;
-
          }
 
          
          .p-50million{
              color: #ececec;
              padding-top: 30px;
-             margin-left: 160px;
              font-size: 23px;
         }
         .p-50million a{
@@ -165,38 +164,40 @@
         }
 
         #enterprise-div{
-            height: 300px;
+            height: 320px;
             width: 92%;
            margin: 100px auto;
             background: rgb(255, 255, 255);
             border: 1px solid rgb(255, 255, 255);
             border-radius: 5px;
-
         }
 
         #enterprise-1{
             float: left;
-            width:30% ;
-            margin-left: 50px;
-            margin-top:70px; ;
+            width:25% ;
+            height: 70%;
+            margin-top:60px;
+            margin-left: 6%; 
         }
+     
 
         #enterprise-1 p{
-            margin-top: 20px;
-            font-size: 21px;
+             font-size: 20px;
+             margin-top: 20px;
 
         }
 
         #enterprise-2{
             float: right;
-            margin-right: 80px;
-            margin-top: 130px;
-       
+            margin-top: 70px;
+            margin-right: 10%;
+            height: 70%;
+            width: 40%;
         }
 
         #start{
             float: left;
-            margin-right: 200px;
+            margin-top:12% ;
             
         }
 
@@ -230,7 +231,8 @@
 
         #contact{
             float: right;
-            margin-right: 50px;
+            margin-top: 12%;
+            
         }
         #contact p{
         margin-top:5px ;
@@ -344,16 +346,11 @@
 
         .better-way h3{
             margin-top: 13px;
-            margin-left: 370px;
+            margin-left: 310px;
             font-size: 25px;
+            width: 750px;
+            color: rgb(88, 96, 105);
         }
-
-        .better-way h4{
-            margin-top: 10px;
-            margin-left: 420px;
-            font-size: 25px;
-        }
-
        
         .better-way input{
             background: white;
@@ -385,8 +382,9 @@
 
         #learn-about{
             float: right;
-            width: 40%;
+            width: 28%;
             height: 650px;
+            margin-right: 130px;
         }
 
         .learn{
@@ -409,6 +407,10 @@
         }
 
         .container{
+            width: 100%;
+            height: 400px;
+        }
+        .mycontainer{
             width: 100%;
             height: 400px;
         }
@@ -445,7 +447,15 @@
             padding: 10px;
             border-radius: 5px;
         }
+    
+        .contdiv a h3{
+            width: 250px;
+        }
+
         .container img{
+            border-radius: 5px;
+        }
+        .mycontainer img{
             border-radius: 5px;
         }
 
@@ -463,8 +473,20 @@
             margin-bottom: 10px;
             text-decoration: none;
         }
+        .mycontainer a h3{
+            font-size: 20px;
+            color:rgb(88, 96, 105) ;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            text-decoration: none;
+        }
 
         .container a p{
+            color:rgb(88, 96, 105) ;
+            font-size: 13px;
+            margin-bottom: 30px;
+        }
+        .mycontainer a p{
             color:rgb(88, 96, 105) ;
             font-size: 13px;
             margin-bottom: 30px;
@@ -551,6 +573,9 @@
            margin-top: 80px;
            margin-left: 220px;
         }
+        #verified1a p{
+            width: 400px;
+        }
 
         #verified1b{
             float: right;
@@ -619,21 +644,10 @@
         margin-left: 27%;
         margin-bottom: 5px;
         color:  rgb(88, 96, 105) ;
-        
+        width: 600px;
     }
 
-    .customize1{
-        font-size: 23px;
-        margin-left: 33%;
-        color:  rgb(88, 96, 105) ;
-        margin-bottom:5px;
-    }
-    .customize2{
-        font-size: 23px;
-        margin-left: 33%;
-        color:  rgb(88, 96, 105) ;
-        margin-bottom:30px;
-    }
+  
     #integrations-div input{
         background: white;
         color: rgb(16, 116, 231);
@@ -666,7 +680,7 @@
 
     .sometimes{
         margin-top: 100px;
-        margin-left: 520px;
+        margin-left: 450px;
         color:rgb(88, 96, 105) ;
     }
 
@@ -822,7 +836,7 @@
             #footer{
                 padding-top: 80px;
                 background: rgb(36, 41, 46);
-                width: 100%;
+                width: 1340px;
                 height: 550px;
             }
 
@@ -830,31 +844,12 @@
 
         .f-p1{
             color: white;
-            font-size: 38px;
-            margin-left: 200px;
+            font-size: 35px;
+            margin-left: 180px;
+            width: 1000px;
+            margin-top: 30px;
         }
 
-        .f-p2{
-            color: white;
-            font-size: 38px;
-            margin-left: 220px;
-            margin-top: 5px;
-        }
-        .f-p3{
-            color: white;
-            font-size: 38px;
-            margin-left: 545px;
-            margin-top: 5px;
-            margin-bottom: ;
-        }
-
-        #table{
-            float: left;
-            width: 70%;
-            height: 110px;
-            margin-top: 75px;
-        
-        }
 
         #fb-div{
             float: right;
@@ -864,972 +859,45 @@
             margin-top: 80px;
         
         }
-
-        .footer-label{
-            color: white;
-            margin-left: 30px;
-            
-        }
-
-        .footer-input{
-            width: 280px;
-            height: 45px;
-            margin-left:30px ;
-            margin-bottom:;
-            border-radius: 8px;
-            border: 0;
-            padding-left: 10px;
-            font-size: 15px;
-        }
-        #table{
-            margin-left: 30px;
-        }
-
-        .footer-button{
-            background: rgb(46, 188, 79);
-            color: white;
-            font-size: 15px;
-            font-weight: bold;
-            height: 57px;
-            width: 300px;
-            border-radius: 8px;
-            border: 0;
-            margin-left: 10px;    
-        }
         .f-p4{
             color: rgb(106, 115, 125);
             font-size: 13px;
-            margin-left:300px;
+            margin-left: 300px;
         }
         .f-p4 a{
             color: white;   
         }
-
-        .container3{
-            padding-top: 50px;
-        }
-
-        #cont-bot{
-            width: 100%;
-            height: 500px;
-        }
-
-        #cont-bot1 a{
-            font-size: 28px;
-            font-weight: bold;
-            margin-left: 50px;
-            color: rgb(36, 41, 46);
-            text-decoration: none;
-        }
-
-        #cont-bot1{
-            float: left;
-            width: 15%;
-            margin-top: 80px;
-        }
-
-        
-        #cont-bot2{
-            float: right;
-            width: 85%;
-            padding-left: 120px;
-            padding-top: 80px;
-        }
-
-        #cont-bot2 p{
-            margin-left: 110px;
-            margin-bottom: 10px;
-        }
-        
-        #cont-bot2 a{
-            margin-left: 110px;
-            margin-bottom: 20px;
-            font-size: 14px;
-            color: rgb(88, 96, 105);
-            text-decoration: none;
-            
-        }
-
-        #cont-bot2 tr{
-            margin-bottom: 10px;
-        }
-
-        .td{
-         color: white;
-            
-            *{
-    margin: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-
-#nav{
-     width: 100%;
-     height: 75px;
-     background: rgb(36, 41, 46);
-     padding-top: 10px;
-}
-
-#logo-div{
-    float: left;
-}
-
-#search-div{
-    float: right;
-}
-
-.nav-link{
-    margin-left: 20px;
-    color: white;
-    font-size: 18px;
-    
-    
-}
-
-.logo{
-    margin-left:50px ;
-    margin-right: 10px;
-    
-    
-    
-
-}
-
-#image-logo{
-    float: left;
-    margin-top: 10px;
-}
-
-
-
-
-#link-div{
-    float: right;
-    margin-top: 15px;
-}
-
-#search-div{
-    margin-right: 50px;
-}
-
-.search-input{
-    height: 38px;
-    width: 235px;
-    font-size: 17px;
-    font-weight: bold;
-    color: white;
-    background: rgb(43, 49, 55);
-    margin-top: 10px;
-    border-radius: 5px;
-    border: 0;
-    padding-left: 15px;
-}
-
-.sign-in{
-    color: white;
-    font-size: 20px;
-    margin-left:15px ;
-}
-
-.sign-up{
-    color: white;
-    background: rgb(36, 41, 46);
-    font-size: 18px;
-    margin-left:15px ;
-    padding: 5px;
-    border: 1px solid white;
-    border-radius: 3px;
-}
-        
-        #general{
-            background: rgb(43, 49, 55);
-            width: 100%;
-            height: 700px;
-        }
-         #developers-div{
-             float: left;
-
-         }
-
-         #signup-div{
-             float: right;
-
-         }
-
-         .p-built{
-             font-size: 70px;
-             color: white;
-             margin-top: 150px;
-             margin-left: 160px;
-
-         }
-
-         
-         .p-50million{
-             color: #ececec;
-             padding-top: 30px;
-             margin-left: 160px;
-             font-size: 23px;
-        }
-        .p-50million a{
-             color: white;
-             
-        }
-
-        form{
-            margin-top: 60px;
-            margin-right: 200px;
-            background:#ececec;
-            height: 500px;
-            width: 440px;
-            padding: 40px 25px 20px 25px;
-
-            border-radius: 8px;
-            
-            
-        }
-
-        form input{
-            width: 100%;
-            height: 50px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            border: 1px solid #95a5a6;
-        }
-
-        
-        
-        form a{
-            color: teal;
-        }
-        
-        
-        
-        .form-signup{
-         background: rgb(46, 188, 79);
-         color: white;
-         font-size: 15px;
-         font-weight: bold;
-         margin-top: 15px;
-         margin-bottom: 15px;
-         height: 65px;
-
-        }
-
-        form p{
-            font-size: 13px;
-            margin-top: 15px;
-            
-        }
-
-        #enterprise-div{
-            height: 300px;
-            width: 92%;
-           margin: 100px auto;
-            background: rgb(255, 255, 255);
-            border: 1px solid rgb(255, 255, 255);
-            border-radius: 5px;
-
-        }
-
-        #enterprise-1{
-            float: left;
-            width:30% ;
-            margin-left: 50px;
-            margin-top:70px; ;
-        }
-
-        #enterprise-1 p{
-            margin-top: 20px;
-            font-size: 21px;
-
-        }
-
-        #enterprise-2{
-            float: right;
-            margin-right: 80px;
-            margin-top: 130px;
-       
-        }
-
-        #start{
-            float: left;
-            margin-right: 200px;
-            
-        }
-
-       
-
-        .h3-start{
-            height: 30px;
-            padding-left: 90px;
-            
-
-        }
-        .button-start{
-            height: 50px;
-            padding-left: 55px;
-            margin-top: 30px;
-
-        }
-        #start input{
-            background: rgb(16, 116, 231);
-            font-size: 17px;
-            padding: 16px;
-            color: white;
-            font-weight: bold;
-            border-radius: 4px;
-            border: 1px solid white;
-            box-shadow: rgb(16, 116, 231);
-
-
-        }
-
-
-        #contact{
-            float: right;
-            margin-right: 50px;
-        }
-        #contact p{
-        margin-top:5px ;
-        }
-
-        .body-contact{
-            margin-bottom:30px ;
-            padding-left: 40px;
-
-            
-        }
-
-        #contact input{
-            background: white;
-            color: rgb(16, 116, 231);
-            font-size: 16px;
-            padding: 18px;
-            font-weight: bold;
-            border-radius: 7px;
-            border:1px solid  rgb(16, 116, 231);
-            
-        }
-
-        #free-div{
-            height: 140px;
-            width: 92%;
-            background: rgb(4, 66, 137);
-            color: white;
-            margin: auto;
-            border-radius: 5px;
-        }
-
-        #free-left{
-            float: left;
-            width: 70%;
-            
-        }
-
-        #free-right{
-            float: right;
-            width: 30%;
-        }
-
-        .free-left1{
-            float: left;
-            margin-top: 55px;
-            margin-left: 50px;
-            
-        } 
-
-        .free-left1 p{
-            color: rgb(40, 167, 69);
-            border: ipx solid rgb(40, 167, 69);;
-        }
-
-
-        .free-left2 p{
-          font-size: 17px;
-          margin-top: 5px;
-        }
-
-        .free-left2{
-            
-            margin-top: 50px;
-            margin-left: 100px;
-
-        }
-
-        #free-right input{
-            font-size: 17px;
-            background: rgb(16, 116, 231);;
-            color: white;
-            padding: 18px 65px;
-            margin-top: 60px;
-            margin-left: 80px;
-            border-radius: 10px;
-            border:3px solid rgb(4, 66, 137);
-            font-weight: bold;
-        }
-
-        #logos-div p{
-           font-size: 25px;
-           margin-left: 25%;
-           margin-top: 80px;
-        }
-
-        .airbnb{
-            margin-left: 250px;
-        }
-   
-        .logos{
-            margin-left: 90px;
-            margin-top: 30px;
-        }
-
-        .spotify{
-            margin-left: 280px;
-        }
-
-        .better-way p{
-           margin-top: 150px;
-           margin-left: 600px;
-        }
-
-
-        .better-way h1{
-           margin-top: 13px;
-           margin-left: 350px;
-           font-size: 50px;
-        }
-
-        .better-way h3{
-            margin-top: 13px;
-            margin-left: 370px;
-            font-size: 25px;
-        }
-
-        .better-way h4{
-            margin-top: 10px;
-            margin-left: 420px;
-            font-size: 25px;
-        }
-
-       
-        .better-way input{
-            background: white;
-            color: rgb(16, 116, 231);
-            font-size: 16px;
-            padding: 20px 40px;
-            font-weight: bold;
-            border-radius: 7px;
-            border:1px solid  rgb(16, 116, 231);
-            margin-top: 30px;
-            margin-left: 570px;
-        }
-
-        #team-svg{
-            width: 100%;
-            height: 720px;
-            margin-top: 50px;
-        }
-
-        #svg{
-            float: left;
-            width: 60%;
-            height: 650px;
-        }
-
-        #svg img{
-            margin-left: 100px;
-        }
-
-        #learn-about{
-            float: right;
-            width: 40%;
-            height: 650px;
-        }
-
-        .learn{
-            color: rgb(36, 41, 46);
-            text-decoration: none;
-        }
-
-        #learn-about a h5 {
-            font-size: 22px;
-            margin-top: 50px;
-            margin-bottom: 10px;
-        }
-
-        
-
-        .learn-about{
-            text-decoration: underline;
-            color: rgb(3, 102, 214);
-            
-        }
-
-        .container{
-            width: 100%;
-            height: 400px;
-        }
-
-        .container1{
-            float: left;
+        #querry{
             display: flex;
-            margin-left: 40px;
-        }
-
-        .container2{
-            float: right;
-            width: 50%;
-            height: ;
-            display: flex;
-            margin-right: 10px;
-            
-        }
-
-        .contdiv{
-            margin-left:30px ;
-            background: whitesmoke;
-            width: 265px;
-            height: 340px;
-            padding: 10px;
-            border-radius: 5px;
-        }
-
-        .cont-div{
-            margin-left:30px ;
-            background: whitesmoke;
-            width: 265px;
-            height: 380px;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .container img{
-            border-radius: 5px;
-        }
-
-        .use{
-            font-size: 23px;
-            color:rgb(88, 96, 105);
-            margin-left: 27%;
-            margin-bottom: 30px;
-        }
-       
-     .container a h3{
-            font-size: 20px;
-            color:rgb(88, 96, 105) ;
-            margin-top: 10px;
-            margin-bottom: 10px;
-            text-decoration: none;
-        }
-
-        .container a p{
-            color:rgb(88, 96, 105) ;
-            font-size: 13px;
-            margin-bottom: 30px;
-        }
-
-        #kris-nova{
-            margin-bottom: 18px;
-        }
-
-       
-        .link-h3p {
-           text-decoration: none;
-                  
-        }
-
-        .read-more{            
-            color: rgb(3, 102, 214);
-
-        }
-
-        .whether1{
-            font-size: 25px;
-            margin-top: 30px;
-            margin-left: 370px;
-            color: rgb(88, 96, 105);;
-        }
-
-        .whether2{
-            font-size: 25px;
-            margin-top: 8px;
-            margin-left: 510px;
-            color: rgb(88, 96, 105);;
-        }
-       
-        .p1{ 
-             margin-left:40% ;
-             font-size: 18px;
-             color:  rgb(88, 96, 105) ;
-            
-        }
-
-        #security{
+            width: 100%;
             margin-top: 100px;
+            height: 100px;
         }
-
-        #security h1{
-            font-size: 55px; 
-            margin: 20px 0 20px 27% ;
-            color: rgb(36, 41, 46);
-            
+        #querry1{
+            width: 46%;
+            display: flex;
+            margin-left: 32px;
         }
-        .p2{
-            font-size: 23px;
-            margin-left: 26%;
-            margin-bottom: 10px;
-            color:  rgb(88, 96, 105) ;
-            
+        #querry2{
+            width: 50%;
+            display: flex;
         }
-        .p3{
-            font-size: 23px;
-            margin-left: 38%;
-            color:  rgb(88, 96, 105) ;
-            margin-bottom: 20px;
+        #querry1a{
+            display: flex;
+            flex-direction: column;
         }
-
-        #security input{
-            background: white;
-            color: rgb(16, 116, 231);
-            font-size: 16px;
-            padding: 23px 40px;
-            font-weight: bold;
-            border-radius: 7px;
-            border:1px solid  rgb(16, 116, 231);
-            margin-top: 30px;
-            margin-left: 480px;
+        #querry1b{
+            display: flex;
+            flex-direction: column;
         }
-        
-        #verified{
-            width: 100%;
-            height: 300px;
+        #querry2a{
+            display: flex;
+            flex-direction: column;
         }
-        #verified1a{
-           float: left;
-           margin-top: 80px;
-           margin-left: 220px;
-        }
-
-        #verified1b{
-            float: right;
-            margin-top: 80px;
-            margin-right: 200px;
-        }
-
-        #verified2{
-            width: 580px;
-            height: 220px;
-            margin-top: 150px;
-            margin-left: 370px;
-            border: 1PX solid rgb(225, 228, 232);
-            padding-top: 30px;
-            padding-right: 30px;
-            padding-bottom: 30px;
-            padding-left: 120px;
-            
-        }
-
-        #verified h3{
-           font-size: 22px;
-           color: rgb(36, 41, 46);
-        }
-
-        #verified p{
-            font-size: 15px;
-            color:  rgb(88, 96, 105) ;
-            margin-top: 10px;
-            margin-bottom: 50px;
-        }
-
-        #verified2 h4{
-            font-size: 22px;
-            color: rgb(36, 41, 46);
-         }
-
-         #verified2 p{
-            font-size: 15px;
-            color:  rgb(88, 96, 105) ;
-            margin: 10px 0;
-        }
-
-        #verified2 a{
-            font-size: 18px;
-            width: 100%;
-            color: rgb(16, 116, 231) ;
-        }
-         #integrations-div{
-             margin-top: 200px;
-         }
-        .integrations{ 
-            margin-left:45% ;
-            font-size: 18px;
-            color:  rgb(88, 96, 105);
-           
-       }
-       #integrations-div h1{
-        font-size: 55px; 
-        margin: 20px 0 20px 35% ;
-        color: rgb(36, 41, 46);
-        
-    }
-    .customize{
-        font-size: 23px;
-        margin-left: 27%;
-        margin-bottom: 5px;
-        color:  rgb(88, 96, 105) ;
-        
-    }
-
-    .customize1{
-        font-size: 23px;
-        margin-left: 33%;
-        color:  rgb(88, 96, 105) ;
-        margin-bottom:5px;
-    }
-    .customize2{
-        font-size: 23px;
-        margin-left: 33%;
-        color:  rgb(88, 96, 105) ;
-        margin-bottom:30px;
-    }
-    #integrations-div input{
-        background: white;
-        color: rgb(16, 116, 231);
-        font-size: 16px;
-        padding: 23px 40px;
-        font-weight: bold;
-        border-radius: 7px;
-        border:1px solid  rgb(16, 116, 231);
-        margin-left: 530px;
-    }
-
-    #travis-div{
-        margin-left: 300px;
-        margin-top:100px ;
-    }
-
-    #zenhubio-div{
-        margin-left: 430px;
-    }
-     
-    .travis1{
-        margin-left: 200px;
-    
-    }
-
-    .travis2{
-        margin-left: 200px;
-    }
-    
-
-    .sometimes{
-        margin-top: 100px;
-        margin-left: 520px;
-        color:rgb(88, 96, 105) ;
-    }
-
-    .sometimes2{
-        color:rgb(88, 96, 105)  ;
-        margin-left: 570px;
-        margin-top: 5px;
-        margin-bottom: 10px;
-    }
-    .sometimes3{
-        color:rgb(16, 116, 231); 
-        margin-left: 570px;
-        
-    }
-    .community{
-        margin-top: 200px;
-        margin-left:45% ;
-        font-size: 18px;
-        color:  rgb(88, 96, 105);
-    }
-    .communityh1i{
-        font-size: 55px; 
-        margin: 20px 0 0 35% ;
-        color: rgb(36, 41, 46);
-    }
-    .communityh2i{
-        font-size: 55px; 
-        margin: 0 0 30px 40% ;
-        color: rgb(36, 41, 46);
-    }
-    .communityp1{
-        font-size: 23px;
-        margin-left: 27%;
-        margin-bottom: 5px;
-        color:  rgb(88, 96, 105) ;
-    }
-    .communityp2{
-        font-size: 23px;
-        margin-left: 45%;
-        color:  rgb(88, 96, 105) ;
-        margin-bottom:30px;   
-    }
-    #worldwide{
-        width: 100%;
-        height: 630px;
-        
-    }
-
-    #worldwide1{
-        float: left;
-        width: 50%;
-        height: 500px;
-        margin-top: 120px;
-    }
-
-    #worldwide2{
-        float: right;
-        width: 50%;
-        height: 600px;
-        margin-top: 20px;
-    
-    }
-    #worldwide2 a{
-        text-decoration: none;
-    }
-
-    .w-w2{
-        margin-top: 60px;
-        color: rgb(88, 96, 105) ;
-        
-    }
-
-    .w-w2i{
-        margin: 2px 0 2px 0;
-        color: rgb(88, 96, 105) ;
-    }
-
-    .open-source{
-        color: rgb(160, 65, 0);
-        text-decoration: none;
-       
-    }
-
-    .buisnesses{
-        color: rgb(111, 66, 193);;
-    }
-    .developers{
-        color:rgb(16, 116, 231);    
-    }
-
-    .milla-100{
-    float: left;
-    width: 220px;
-    height:220px;
-    border-radius: 110px;
-    background: rgb(246, 106, 10);
-    color: white;
-    margin-left: 180px;
-    }
-
-    .milla2{
-        padding-left: 40px;
-    }
-
-    .milla{
-        font-size: 42px;
-        padding-left: 50px;
-        padding-top: 70px;
-    }
-
-    .milla-50{
-        float: right;
-        width: 180px;
-        height:180px;
-        border-radius: 90px;
-        background: rgb(3, 102, 214);
-        color: white;
-        margin-right: 70px;
-        margin-top: 40px;
-        }
-
-        .milla2i{
-            padding-left: 50px;
-        }
-    
-        .millai{
-            font-size: 42px;
-            padding-left: 40px;
-            padding-top: 50px;
-        }
-
-        .milla-29{
-            width: 140px;
-            height:140px;
-            border-radius: 70px;
-            background:rgb(111, 66, 193);
-            color: white;
-            margin-top: 220px;
-            margin-left: 330px;
-            }
-    
-            .milla2ii{
-                padding-left: 30px;
-            }
-        
-            .millaii{
-                font-size: 42px;
-                padding-left: 20px;
-                padding-top: 20px;
-            }
-
-    
-            #footer{
-                padding-top: 80px;
-                background: rgb(36, 41, 46);
-                width: 100%;
-                height: 550px;
-            }
-
-            
-
-        .f-p1{
-            color: white;
-            font-size: 38px;
-            margin-left: 200px;
-        }
-
-        .f-p2{
-            color: white;
-            font-size: 38px;
-            margin-left: 220px;
-            margin-top: 5px;
-        }
-        .f-p3{
-            color: white;
-            font-size: 38px;
-            margin-left: 545px;
-            margin-top: 5px;
-            margin-bottom: ;
-        }
-
-        #table{
-            float: left;
-            width: 70%;
-            height: 110px;
-            margin-top: 75px;
-        
-        }
-
-        #fb-div{
-            float: right;
-            width: 25%;
-            height: 105px;
-            margin-right: 30px;
-            margin-top: 80px;
-        
-        }
-
         .footer-label{
             color: white;
-            margin-left: 30px;
-            
+            margin-left: 30px;   
         }
-
         .footer-input{
             width: 280px;
             height: 45px;
@@ -1840,10 +908,6 @@
             padding-left: 10px;
             font-size: 15px;
         }
-        #table{
-            margin-left: 30px;
-        }
-
         .footer-button{
             background: rgb(46, 188, 79);
             color: white;
@@ -1855,22 +919,13 @@
             border: 0;
             margin-left: 10px;    
         }
-        .f-p4{
-            color: rgb(106, 115, 125);
-            font-size: 13px;
-            margin-left:300px;
-        }
-        .f-p4 a{
-            color: white;   
-        }
-
-        .container3{
-            padding-top: 50px;
-        }
+       
 
         #cont-bot{
             width: 100%;
             height: 500px;
+            display: flex;
+            justify-content: space-between;
         }
 
         #cont-bot1 a{
@@ -1882,43 +937,143 @@
         }
 
         #cont-bot1{
-            float: left;
             width: 15%;
             margin-top: 80px;
         }
-
-        
-        #cont-bot2{
-            float: right;
-            width: 85%;
-            padding-left: 120px;
-            padding-top: 80px;
+        #cont-bot23{
+            display: flex;
+            width: 75%;
+            margin-top: 80px;
+            
         }
 
+    
+        #cont-bot2{
+            width: 50%;
+        }
+       
+
         #cont-bot2 p{
-            margin-left: 110px;
+            margin-left: 140px;
+            margin-bottom: 10px;
+        }
+        #cont-bot3 p{
+            margin-left: 140px;
             margin-bottom: 10px;
         }
         
         #cont-bot2 a{
-            margin-left: 110px;
-            margin-bottom: 20px;
             font-size: 14px;
             color: rgb(88, 96, 105);
             text-decoration: none;
             
         }
-
-        #cont-bot2 tr{
-            margin-bottom: 10px;
-        }
-
-        .td{
-         color: white;
+        #cont-bot3 a{
+            font-size: 14px;
+            color: rgb(88, 96, 105);
+            text-decoration: none;
             
         }
+        
+        @media (max-width: 1300px){
+            #signup-div{
+                margin-right: 480px;
+            }
+          #general{
+              height: 1000px;
+          }
+          #developers-div{
+              width: 70%;
+              margin-left:100px ;
+              text-align: center;
+          }
+          #signup-div{
+              margin-right: 300px;
+          }
+          .container{
+              height: 700px;
+              display: flex;
+              flex-direction: column;
+              padding-left: 300px;
+          }
+          .mycontainer{
+            height: 900px;
+            display: flex;
+            flex-direction: column;
+            padding-left: 300px;
+        }
+          .container2{
+              margin-left: 40px;
+              margin-top: 50px;
+          }
+          
+          #verified1a{
+              margin-left: 20px;
+          }
+          #verified1b{
+            margin-right: 20px;
+        }
+        #worldwide{
+            width: 1300px;
+        }
+        .footer-input{
+            display: flex;
+            flex-direction: column-reverse;
+        }
+        }
 
-     
+        @media (max-width: 1250px){
+            #signup-div{
+                display: none;
+            }
+            #general{
+                height: 400px;
+            }
+
+            #free-div{
+                height: 250px;
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+                padding-left: 180px;
+            }
+            #free-right{
+                margin-left: px;
+                margin-top: -30px;
+            }
+
+            #free-right input{
+               width: 600px;
+            }
+            .free-left2{
+                margin-left: ;
+            }
+            #security input{
+                margin-left: 420px;
+            }
+        }
+
+        @media (max-width: 1200px){
+            #enterprise-div{
+               height: 400px;
+               width: 100%;
+               
+            }
+            #enterprise-1{
+                width: 100%;
+                text-align: center;
+                
+            }
+            #enterprise-2{
+               width:50% ;
+               height: 220px;
+               margin-right:22% ;
+               margin-top: -200px;
+            }
+            .better-way{
+                width: 1200px;
+            }
+        }
         @media (max-width: 1150px){
             #link-div{
                 display: none;
@@ -1929,24 +1084,646 @@
             .sign-in{
                 display: none;
             }
+            #general{
+                width: 1060px;
             }
-    
-            @media (max-width: 1300px){
-                #signup-div{
-                    margin-right: 480px;
-                }
-              #general{
-                  height: 1100px;
-              }
+            #nav{
+                width: 1060px;
             }
-    
-            @media (max-width: 1250px){
-                #signup-div{
-                    display: none;
-                }
-                #general{
-                    height: 600px;
-                }
-    
+            #team-svg{
+                display: flex;
+                flex-direction: column;
+                height: 1200px;
+                width: 1150px;
             }
+            #svg{
+                margin-left: 120px;
+            }
+            #learn-about{
+                margin-left: 50px;
+                width: 800px;
+            }
+            #integrations-div input{
+               margin-left: 450px;
+            }
+            #travis-div{
+                width: 1000px;
+            }
+            #zenhubio-div{
+                width: 1000px;
+            }
+            .sometimes{
+                width: 8000;
+                margin-left: 400px;
+            }
+            .sometimes2{
+                width: 8000;
+                margin-left: 500px;
+            }
+            .sometimes3{
+                width: 8000;
+                margin-left: 500px;
+            }
+            .whether1{
+                width: 800px;
+            }
+            .whether2{
+                width: 800px;
+            }
+            #worldwide{
+                display: flex;
+                flex-direction: column;
+                height: 1200px;
+            }
+            #worldwide1{
+                margin-left: 200px;
+            }
+            #worldwide2{
+                margin-left: 400px;
+                font-size: 30px;
+            }
+        }
+
+        @media (max-width: 1000px){
+            #contact{
+                margin-left:60px ;
+                margin-top: 50px ;
+            }
+
+            #enterprise-1{
+                width: 100% ;
+            }
+            #enterprise-2{
+                display: flex;
+                flex-direction: column;
+                width: 300px;
+                margin-top: -300px ;
+                height: 390px;
+                margin-right: 300px;
+        
+            }
+            #enterprise-div{
+                height: 550px;
+                width: 1000px;
+            }
+        
+            #start{
+                width: 500px;
+            }
+
+            #start p{
+                font-size: 20px;
+            }
+            #start h3{
+                font-size:25px;
+                
+            }
+
+            #contact h3{
+                font-size: 25px;  
+            }
+
+            #contact p{
+                font-size: 20px;
+            }
+            #contact input{
+                margin-left:20px;
+            }
+            #free-div{
+                margin-top: -100px;
+                width: 1000px;
+                padding-left: 250px;
+            }
+            #free-right input{
+                width: 400px;
+             }
+             #logos-div{
+                 width: 1128px;
+             }
+             .better-way p{
+                margin-left: 520px;
+            }
+             .better-way h1{
+                 margin-left: 250px;
+             }
+             .better-way h3{
+                  margin-left: 210px;
+             }
+             .better-way input{
+                 margin-left: 450px;
+             }
+             .learn{
+                font-size: 28px;
+            }
+            
+        #learn-about a h5{
+                font-size: 33px;
+            }
+            #team-svg{
+                height: 1400px;
+            }
+            .learn-about{
+                font-size: 28px;
+            }
+            .use{
+                margin-left: 300px;
+                width: 700px;
+            }
+            .p1{
+                margin-left: 470px;
+                width: 800px;
+            }
+            #security h1{
+                width: 800px;
+            }
+            .p2{
+                width: 800px;
+            }
+            .p3{
+               margin-left: 400px;
+               width: 800px;
+            }
+            #verified{
+              display: flex;
+              flex-direction: column;
+              height: 1200px;
+          }
+          #verified1a{
+              width: 1200px;
+          }
+          #verified1b{
+            margin-left: 200px
+        }
+        #verified1b  img{
+            height: 500px;
+            width: 700px;
+        }
+          #verified1a h3{
+              font-size: 50px;
+          }
+          #verified1a p{
+            font-size: 40px;
+            width: 1000px;
+        }
+        #verified2 h4{
+            font-size: 50px;
+            width: 600px;
+            margin-left: -100px;
+        }
+        #verified2 p{
+            font-size: 30px;
+            width: 550px;
+            margin-left: -100px;
+        }
+        #verified2 a{
+            font-size: 30px;
+            width: 800px;
+            margin-left: -100px;
+        }
+        #verified2{
+            border: 1PX solid rgb(225, 228, 232);
+            padding-bottom: 100px;
+            height: 400px;
+            margin-left: 200px;
+        }
+         #integrations-div {
+            padding-left: 50px;
+         }
+         #integrations-div h1 {
+            width: 500px;
+            margin-left: 200px;
+         }
+         .integrations{
+             margin-left: 380px;
+         }
+         .customize{
+            margin-left: 160px; 
+         }
+         #integrations-div input{
+             margin-left: 300px;
+         }
+         #travis-div{
+             margin-left: 100px;
+         }
+         #zenhubio-div{
+             margin-top: -55px;
+             margin-left: 220px;
+         }
+         #some-com{
+             width: 1000px;
+         }
+         .sometimes{
+            font-size: 40px;
+            width: 1000px;
+            margin-left: 150px;
+        }
+        
+        .sometimes2{
+            font-size: 40px;
+            width: 800px;
+            margin-left: 280px;
+        }
+        .sometimes3{
+            font-size: 40px;
+            width: 1500px;
+            margin-left:280px;
+        }
+        #footer{
+            height: 1300px;
+        }
+        #querry input{
+            width: 1000px;
+            height: 100px;
+            margin-bottom: 60px;
+            font-size: 30px;
+        }
+        #querry label{
+            font-size: 40px;
+        }
+        #querry{
+            display: flex;
+            flex-direction: column;
+            height: 800px;
+        }
+        #querry1{
+            display: flex;
+            flex-direction: column;
+        }
+        #querry2{
+            display: flex;
+            flex-direction: column;
+            margin-left: 30px;
+        }
+        .footer-button{
+            margin-left: 30px;
+        }
+        .f-p4{
+            margin-left: 70px;
+            font-size: 30px;
+            width:1000px;
+        }
+        #cont-bot{
+            display: flex;
+            flex-direction: column;
+        }
+        #cont-bot2{
+            margin-right: 250px;
+        }
+        #cont-bot p{
+            font-size: 30px;
+        }
+        #cont-bot2 a{
+            font-size: 30px;
+        }
+        #cont-bot3 a{
+            font-size: 30px;
+        }
+        #cont-bot1 a{
+            font-size: 40px;
+        }
+        }
+
+        @media (max-width: 500px){
+            #general{
+                height: 600px;
+                padding-left: 50px;
+            }
+            .p-50million{
+                font-size: 40px;
+            }
+           #enterprise-1 h1{
+               font-size: 50px;
+           }
+           #enterprise-1 p{
+            font-size: 40px;
+        }
+        #start h3{
+            margin-top: 100px;
+            font-size: 50px;
+        }
+
+        #start p{
+            margin-top: 50px;
+            font-size: 40px;
+        }
+
+        #start input{
+            width: 350px;
+            height: 100px;
+        }
+        #contact h3{
+            margin-top: 70px;
+            font-size: 50px;
+        }
+
+        #contact p{
+            margin-top: 20px;
+            font-size: 40px;
+        }
+
+        #contact input{
+            width: 350px;
+            height: 100px;
+        }
+        #free-div{
+            margin-top: 500px;
+            height: 500px;
+            margin-left: 50px;
+            
+        }
+        .free-left2{
+            margin-left: -200px;
+            width: 950px;
+        
+            margin-left: ;
+        }
+
+        .free-left2 h2{
+            font-size: 50px;
+            margin-left: -100px;
+            margin-bottom:40px ;
+            text-align: left;
+        }
+        .free-left1 p{
+            display: none;
+        }
+
+        .free-left2 p{
+            font-size: 40px;
+            margin-bottom: 50px;
+        }
+
+        .better-way p{
+            font-size: 40px;
+            margin-left: 450px;
+        }
+        .better-way h1{
+            font-size: 100px;
+            margin-left: 80px;
+        
+        }
+        .better-way h3{
+           font-size: 60px;
+           width: 1000px;
+           margin-left: 40px;
+           margin-top: 50px;
+        }
+            .better-way input{
+               width: 300px;
+               height: 100px;
+            }
+            .learn{
+                font-size: 50px;
+            }
+            
+        #learn-about a h5{
+                font-size: 60px;
+            }
+            #team-svg{
+                height: 2200px;
+            }
+            .learn-about{
+                font-size: 50px;
+            }
+            .container{
+                height: 3100px;
+            }
+            .mycontainer{
+                height: 3600px;
+            }
+            .container1{
+                display: flex;
+                flex-direction: column;
+            }
+            .container2{
+                display: flex;
+                flex-direction: column;
+            }
+            .container img{
+               height: 480px;
+               width: 600px;
+            }
+            .mycontainer img{
+                height: 480px;
+                width: 600px;
+             }
+            .contdiv{
+                margin-bottom: 400px;
+            }
+            .cont-div{
+                margin-bottom: 500px;
+            }
+            .cont-div a p{
+                width: 600px;
+            }
+            .container a h3{
+                font-size: 40px;
+            }
+            .mycontainer a h3{
+                font-size: 40px;
+            }
+            .container a p{
+                font-size: 30px;
+            }
+            .mycontainer a p{
+                font-size: 30px;
+            }
+            .read-more{
+                font-size: 40px;
+            }
+            .use{
+                font-size: 40px;
+            }
+            #security p{
+                font-size: 40px;
+            }
+            #security h1{
+                margin-left: 300px;
+            }
+            .p2{
+                margin-left: 100px;
+                width: 1100px;
+            }
+            .p1{
+                margin-left: 400px;
+            }
+            #security input{
+                height:100px;
+                font-size: 20px;
+            }
+            #integrations-div h1 {
+                width: 500px;
+                margin-left: 200px;
+             }
+             .integrations{
+                 font-size: 40px;
+             }
+             .customize{
+                font-size: 40px;
+                width: 700px; 
+             }
+             #integrations-div input{
+                 height: 100px;
+                 width: 400px;
+                 font-size: 25px;
+             }
+             #zenhubio-div{
+                margin-top: 50px;
+                margin-left: 50px;
+            }
+            #zenhubio-div img{
+                width: 140px;
+                height: 100px;
+        
+            }
+            #travis-div{
+                width: 1200px;
+                margin-left: 50px;
+            }
+            #travis-div img{
+                width: 140px;
+                height: 100px;
+            }
+            .community{
+              font-size: 30px;
+            }
+            .communityh1i{
+                font-size: 100px;
+                width: 800px;
+                margin-left: 200px;
+            }
+            .communityh2i{
+                font-size: 100px;
+                width: 800px;
+                margin-left: 300px;
+            }
+            .communityp1{
+                font-size: 40px;
+                width: 1200px;
+                margin-left: 100px;
+            }
+            .communityp2{
+                font-size: 40px;
+                margin-left: 400px;
+            }
+            .whether1{
+                font-size: 58px;
+                width: 800px;
+                margin-left: 200px;
+            }
+            .whether2{
+                font-size: 58px;
+                width: 900px;
+                margin-left: 200px;
+            }
+            #worldwide1{
+                margin-bottom: 250px;
+            }
+            #worldwide2{
+                font-size: 50px;
+            }
+            #worldwide{
+                height: 1900px;
+            }
+            .milla-100{
+                height: 500px;
+                width: 500px;
+                border-radius: 250px;
+                margin-left: -150px;
+            }
+            .milla-50{
+                height: 350px;
+                width: 350px;
+                border-radius: 175px;
+                margin-right: -100px;
+            }
+            .milla-29{
+                height: 300px;
+                width: 300px;
+                border-radius: 150px;
+                margin-top: 450px;
+                margin-left: 280px;
+            }
+            
+    .milla{
+        font-size: 100px;
+        margin-top: 100px;
+        margin-left: 60px;
+    }
+            
+    .milla2{
+        width: 450px;
+        font-size: 40px;
+        margin-left: 30px;
+    }
+    .millai{
+        font-size: 100px;
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+            
+    .milla2i{
+        font-size: 40px;
+        margin-left: 50px;
+    }
+    .millaii{
+        font-size: 90px;
+        margin-top: 20px;
+        margin-left: px;
+    }
+            
+    .milla2ii{
+        font-size: 35px;
+        margin-left: 50px;
+    }
+    #footer{
+         margin-top: 200px;
+    }
+    #cont-bot23{
+        display: flex;
+        flex-direction: column;
+    }
+    #cont-bot p{
+        font-size: 40px;
+    }
+    #cont-bot2 a{
+        font-size: 40px;
+        margin-right: 200px;
+    }
+    #cont-bot3 a{
+        font-size: 40px;
+        margin-right: 200px;
+    }
+    #cont-bot1 a{
+        font-size: 50px;
+    }
+
+}
+
+        @media (max-width: 260px){
+            #enterprise-div{
+                width: 200%;
+                display: flex;
+            }
+            #enterprise-1{
+                width: 50% ;
+            }
+
+            #enterprise-2{
+                margin-top: 50px;
+            }
+            .better-way{
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 160px){
+            #enterprise-div{
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+            } 
+        }
+        
+
     
